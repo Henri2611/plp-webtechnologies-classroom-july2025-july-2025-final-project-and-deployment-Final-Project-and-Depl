@@ -1,12 +1,12 @@
 # AnimeWorld 🌸
 
 AnimeWorld is a simple responsive website showcasing anime content, styled with a sidebar navigation and mascot section.  
-It was built using **HTML** and **CSS** only, with a focus on clean UI, responsive design, and smooth navigation.  
+It was built using **HTML** , **CSS** and **Js** only, with a focus on clean UI, responsive design, and smooth navigation.  
 
 ---
 
 ## 🌐 Live Demo
-👉 [Visit AnimeWorld Live](https://your-live-url-here.com)
+👉 [Visit AnimeWorld Live](https://plp-webtechnologies-classroom-july2-umber.vercel.app/)
 
 ---
 
@@ -21,41 +21,45 @@ It was built using **HTML** and **CSS** only, with a focus on clean UI, responsi
 
 ## 📂 Project Structure
 ```bash
-├── index.html        # Main HTML file
-├── style.css         # Global styles
-├── /images           # Mascot and asset images
+├── assets
+│   └── images        # All image files (artwork, mascots, banners, etc.)
+│
+├── css
+│   └── styles.css    # Main stylesheet for the website
+│
+├── scripts
+│   └── script.js     # JavaScript file for interactivity
+│
+├── index.html        # Main entry point of the website
 └── README.md         # Project documentation
-🚀 Getting Started
+
+---
+```
+# 🚀 Getting Started
 
 Clone the repository:
 
-git clone https://github.com/yourusername/animeworld.git
+```bash
+git clonehttps://github.com/Henri2611/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl
+
+```
 
 
 Open the project folder:
 
-cd animeworld
+```bash
+cd plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl
 
-
-Run the project by opening index.html in your browser.
-
-📸 Screenshots
-
-(Add screenshots here once you deploy or capture your project)
-
-🔗 Contact
-
-Made with ❤️ by [Your Name]
-
-Instagram: @yourhandle
-
-Twitter: @yourhandle
-
-Discord: yourdiscord#1234
-
+```
+Open the project by opening index.html in your browser
 
 ---
 
-⚡ Quick note:  
-- Replace `https://your-live-url-here.com` with your actual **Vercel/GitHub Pages live URL**.  
-- Swap the contact/socials with your real handles.  
+# 📸 Screenshots
+🏠 Homepage
+![Homepage Screenshot](assets/images/Homepage.png)
+
+### 📱 Mobile View
+![Mobile View](assets/images/mobileView.png)
+
+
