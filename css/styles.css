@@ -95,6 +95,12 @@ html {
   transition: 0.3s ease;
   font-weight: bold;
 }
+
+.btn a {
+  text-decoration: none;
+  color: white;
+  
+}
 .btn.primary {
   background: #ff4c60;
   color: white;
